@@ -1,4 +1,3 @@
-# awesome-works
 ------------------------
 
 * [Arnold-Shaders](https://github.com/iceprincefounder/awesome-works#arnold-shaders)
